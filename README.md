@@ -1,6 +1,6 @@
 # lamp-toggle
 A simple JavaScript project to toggle a lamp on and off. It uses HTML, CSS, and JavaScript to switch between two images (lamp on/off) with a button.
-<h1>Turn off The lamp</h1>
-<img width="327" height="409" alt="Screenshot 2025-09-16 093112" src="https://github.com/user-attachments/assets/9c9d44ba-c248-4e72-8e9e-e34cc39b8e3f" />
 <h1>Turn on The lamp</h1>
-<img width="389" height="455" alt="Screenshot 2025-09-16 093025" src="https://github.com/user-attachments/assets/04a16a02-adee-469a-ad86-84ac1c565747" />
+<img width="547" height="562" alt="Screenshot 2025-09-20 093517" src="https://github.com/user-attachments/assets/74ff02ea-1342-48b7-8c83-7a721e479ab8" />
+<h1>Turn off The lamp</h1>
+<img width="342" height="404" alt="Turn on The lamp" src="https://github.com/user-attachments/assets/9f1348b3-3a0c-4dd4-a594-c1d2820837a3" />
